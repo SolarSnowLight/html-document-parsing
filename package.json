@@ -1,0 +1,22 @@
+{
+  "name": "parser_joomla_to_bitrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "cheerio": "^1.0.0-rc.12",
+    "fs-extra": "^11.1.0",
+    "jsdom": "^20.0.3",
+    "needle": "^3.2.0",
+    "node-html-parser": "^6.1.4",
+    "request": "^2.88.2",
+    "tress": "^1.1.4"
+  }
+}
